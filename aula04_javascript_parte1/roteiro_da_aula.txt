@@ -1,0 +1,4 @@
+JavaScript
+
+Foi criado para manipular os elementos de uma página
+
